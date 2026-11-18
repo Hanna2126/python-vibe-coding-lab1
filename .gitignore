@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# 运行时数据库（每次启动自动建表，不入库）
+*.db
+*.db-wal
+*.db-shm
+
+# 生成的报表属于运行产物，需要留档时可手动提交
+# excel_report/output/report.xlsx

@@ -1,0 +1,10 @@
+# 依赖清单（Python 3.10+）
+# 考题二：FastAPI 记账服务
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.0
+pytest>=8.0
+httpx>=0.27
+# 考题一：Excel 报表脚本
+pandas>=2.0
+openpyxl>=3.1
